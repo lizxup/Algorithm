@@ -1,4 +1,4 @@
-package src.datastructure;
+package com.peanut.datastructure;
 
 
 /**

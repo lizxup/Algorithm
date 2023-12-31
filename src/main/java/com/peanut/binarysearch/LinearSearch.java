@@ -1,4 +1,4 @@
-package src.binarysearch;
+package com.peanut.binarysearch;
 
 
 //线性查找

@@ -1,5 +1,5 @@
 import org.junit.Test;
-import src.binarysearch.BinarySearch;
+import com.peanut.binarysearch.BinarySearch;
 
 import java.util.Arrays;
 
