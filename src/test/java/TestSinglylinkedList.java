@@ -1,4 +1,5 @@
 import com.peanut.datastructure.SinglyLinkedList;
+import com.peanut.datastructure.SinglyLinkedListSentinel;
 import org.junit.Test;
 
 public class TestSinglylinkedList {
@@ -42,6 +43,10 @@ public class TestSinglylinkedList {
         for(Integer value : singlyLinkedList){
             System.out.println(value);
         }
+    }
+    @Test
+    public void test3(){
+        SinglyLinkedListSentinel singlyLinkedListSentinel = new SinglyLinkedListSentinel();
     }
 
 }
